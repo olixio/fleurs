@@ -1,0 +1,90 @@
+{
+  "the-fool": {
+    "name": "The Fool",
+    "desc": "Boldly step into the unknown!"
+  },
+  "the-magician": {
+    "name": "The Magician",
+    "desc": "It's time to manifest intentions!"
+  },
+  "the-high-priestess": {
+    "name": "The High Priestess",
+    "desc": "Wait for clarity!"
+  },
+  "the-empress": {
+    "name": "The Empress",
+    "desc": "Enjoy the abundance!"
+  },
+  "the-emperor": {
+    "name": "The Emperor",
+    "desc": "Go for it with persistence and discipline."
+  },
+  "the-hierophant": {
+    "name": "The Hierophant",
+    "desc": "Find a mentor and listen attentively."
+  },
+  "the-lovers": {
+    "name": "The Lovers",
+    "desc": "Сhoose with your heart."
+  },
+  "the-chariot": {
+    "name": "The Chariot",
+    "desc": "The war is over, and you are the winner!"
+  },
+  "strength": {
+    "name": "Strength",
+    "desc": "Tame your instincts and use them."
+  },
+  "the-hermit": {
+    "name": "The Hermit",
+    "desc": "Take time to explore yourself."
+  },
+  "wheel-of-fortune": {
+    "name": "Wheel of Fortune",
+    "desc": "You'll get lucky!"
+  },
+  "justice": {
+    "name": "Justice",
+    "desc": "Get what you deserve: reward or retribution?"
+  },
+  "the-hanged-man": {
+    "name": "The Hanged Man",
+    "desc": "Look at the situation from a different angle."
+  },
+  "death": {
+    "name": "Death",
+    "desc": "Let go of what no longer serves you."
+  },
+  "temperance": {
+    "name": "Temperance",
+    "desc": "Be patient: your wishes are about to come true."
+  },
+  "the-devil": {
+    "name": "The Devil",
+    "desc": "Warning! Resist temptation!"
+  },
+  "the-tower": {
+    "name": "The Tower",
+    "desc": "Whatever happens, happens for the best."
+  },
+  "the-star": {
+    "name": "The Star",
+    "desc": "Your cherished dream comes true!"
+  },
+  "the-moon": {
+    "name": "The Moon",
+    "desc": "Try to find the truth among illusions."
+  },
+  "the-sun": {
+    "name": "The Sun",
+    "desc": "Happiness is here and now!"
+  },
+  "judgement": {
+    "name": "Judgement",
+    "desc": "Say Yes to change - it will bring you happiness."
+  },
+  "the-world": {
+    "name": "The World",
+    "desc": "And they lived happily ever after!"
+  }
+}

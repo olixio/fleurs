@@ -1,0 +1,50 @@
+.mo-tarot-widget {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  line-height: 1.2;
+}
+
+.mo-tarot-widget__title {
+  font-weight: bold;
+  font-size: 21px;
+}
+
+.mo-tarot-widget__subtitle {
+  font-weight: normal;
+  font-size: 20px;
+  margin: 3px 0;
+}
+
+.mo-tarot-widget__img {
+  width: 90%;
+}
+.mo-tarot-widget__img img {
+  width: 100%;
+}
+
+.mo-tarot-widget__desc {
+  font-weight: normal;
+  font-size: 18px;
+  margin: 3px 0;
+}
+
+.mo-tarot-widget__link a {
+  text-decoration: underline;
+  font-size: 16px;
+}
+
+.mo-tarot-widget__link a:link,
+.mo-tarot-widget__link a:visited {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.mo-tarot-widget__link a:hover,
+.mo-tarot-widget__link a:active {
+  color: #0000ee;
+  text-decoration: underline;
+}
